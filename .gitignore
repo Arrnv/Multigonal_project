@@ -5,7 +5,7 @@ __pycache__/
 
 datasets
 /datasets
-
+.DS_Store
 # C extensions
 *.so
 
